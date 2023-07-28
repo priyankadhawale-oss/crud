@@ -1,4 +1,4 @@
-.App {
+/*App {
   text-align: center;
 }
 
@@ -6,7 +6,25 @@
   height: 40vmin;
   pointer-events: none;
 }
+*/.aboutus{
+  color: crimson;
+  text-align: center;
+  padding: 2px;
+  
+  
+}
+.carousel-item, .d-block{
+  width:70%;
+  height: 80%;
+  
 
+}
+
+.no{
+  color:red;
+  text-align: center;
+
+}/*
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +54,4 @@
     transform: rotate(360deg);
   }
 }
+ */

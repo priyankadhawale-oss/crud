@@ -1,0 +1,26 @@
+{
+  "emp": [
+    {
+      "name": "priyanka",
+      "mo": "9876578933",
+      "gender": "female",
+      "Email": "riya@gmail.com",
+      "Addr": "tfghjkl",
+      "city": "nandura",
+      "state": "Maharashtra",
+      "zip": "431231",
+      "id": 2
+    },
+    {
+      "name": "shyam",
+      "mo": "8765432879",
+      "gender": "female",
+      "Email": "kjhgf@gmail.com",
+      "Addr": "iuytdgs",
+      "city": "Pune",
+      "state": "Madhypradesh",
+      "zip": "98765",
+      "id": 4
+    }
+  ]
+}
